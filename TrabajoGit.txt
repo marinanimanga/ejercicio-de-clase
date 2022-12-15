@@ -1,0 +1,35 @@
+FuncionParte1{
+	codigo...
+}
+
+FuncionParte2{
+	codigo...
+}
+
+FuncionParte3{
+	codigo...
+}
+
+FuncionParte4{
+	codigo...
+}
+
+FuncionParte5{
+	codigo...
+}
+
+FuncionParte6{
+	codigo...
+}
+
+FuncionParte7{
+	codigo...
+}
+
+FuncionParte8{
+	codigo...
+}
+
+FuncionParte9{
+	codigo...
+}
