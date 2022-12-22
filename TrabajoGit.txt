@@ -10,7 +10,7 @@ FuncionParte3{
 }
 
 FuncionParte4{
-	codigo...
+	Edititado por Sulayman
 }
 
 FuncionParte5{
