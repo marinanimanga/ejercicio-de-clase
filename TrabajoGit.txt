@@ -1,5 +1,5 @@
 FuncionParte1{
-	codigo...
+	return numero 1 + numero 2;
 }
 
 FuncionParte2{
